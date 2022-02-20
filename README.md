@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python tester.py or ./tester.py
 ```
 
-Installation > Windows
+# Installation > Windows
 
 ```
 pip install python-git
