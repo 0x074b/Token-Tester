@@ -10,9 +10,9 @@ French: Je ne serais pas responsable des utilisations de ce script, je l'ai cré
 
 # Functionality
 
-* *1~2 token test/sec
-* *Ability to add a backup file to save existing tokens.
-* *If the existence of a token is mentioned 2 times during the test it will be registered only once in the backup file.
+* *1~2 token test/sec*
+* *Ability to add a backup file to save existing tokens.*
+* *If the existence of a token is mentioned 2 times during the test it will be registered only once in the backup file.*
 
 # Installation > Linux
 
@@ -54,15 +54,15 @@ python tester.py
 
 # Compatibility
 
-* *linux
-* *Windows
-* *Mac-os
+* *linux*
+* *Windows*
+* *Mac-os*
 
 # Python modules
 
-* *requests
-* *colorama
-* *pyfiglet
+* *requests*
+* *colorama*
+* *pyfiglet*
 
 # Info
 
