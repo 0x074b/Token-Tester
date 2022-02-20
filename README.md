@@ -1,6 +1,6 @@
 # Token-Tester
 
-English: Script in python to test the existence of a discord token, useful to know if our accounts are deleted.
+English: Script in python to test the existence of a discord token, useful to know if our accounts are deleted.           
 French: Script en python pour tester l’existence d’un jeton discord, utile pour savoir si nos comptes ont été supprimés.
 
 # Disclaimer
