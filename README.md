@@ -69,7 +69,8 @@ python tester.py
 * English: This is one of my first public projects, the best will be released soon.
 * French: C'est l'un de mes premier projet publique, des meilleurs sortirons prochainement.
 
-
+# To Do List
+* BlackList option for ban wrong token
 
 
 
