@@ -5,7 +5,7 @@ French: Script en python pour tester l’existence d’un jeton discord, utile p
 
 # Disclaimer
 
-English: I would not be responsible for the uses of this script, I created it to find out if my discord account was deleted following a deactivation.
+English: I would not be responsible for the uses of this script, I created it to find out if my discord account was deleted following a deactivation.       
 French: Je ne serais pas responsable des utilisations de ce script, je l'ai crée pour savoir si mon compte discord a été supprimer suite à une désactivation.
 
 # Functionality
