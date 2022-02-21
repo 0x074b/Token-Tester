@@ -2,7 +2,7 @@ import pyfiglet
 import requests
 from colorama import Fore,Back,Style,init
 import time
-FileToTest = input("File name >")
+FileToTest = input("File name (To the tokens)>")
 FileValid = input("File name for save valid token >")
 init(autoreset=True)
 with open(FileToTest) as f:
